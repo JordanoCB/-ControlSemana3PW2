@@ -1,0 +1,17 @@
+body{
+    box-sizing: border-box;
+    clear: both;
+    background-color: antiquewhite;
+}
+
+.pregunta1{
+    background-color: aqua;
+}
+
+.pregunta2{
+    background-color: aquamarine;
+}
+
+.pregunta3{
+    background-color: lightblue;
+}
